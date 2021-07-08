@@ -1,5 +1,4 @@
 # Edit-based-Paper
-# Must-read papers on LS
 
 ## Complex Word Identification  
 
