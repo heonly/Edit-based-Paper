@@ -4,7 +4,7 @@
 
    *Eric Malmi, Sebastian Krause, Sascha Rothe, Daniil Mirylenka, Aliaksei Severyn.*
    
-1. **Levenshtein Transformer** NeurIPS 2019. [paper](https://proceedings.neurips.cc/paper/2019/hash/675f9820626f5bc0afb47b57890b466e-Abstract.html/)
+1. **Levenshtein Transformer** NeurIPS 2019. [paper](https://proceedings.neurips.cc/paper/2019/file/675f9820626f5bc0afb47b57890b466e-Paper.pdf)
 
    *Jiatao Gu, Changhan Wang, Junbo Zhao.*   
 
