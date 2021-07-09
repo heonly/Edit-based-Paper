@@ -3,6 +3,10 @@
 1. **Encode, Tag, Realize: High-Precision Text Editing** EMNLP 2019. [paper](https://aclanthology.org/D19-1510/)
 
    *Eric Malmi, Sebastian Krause, Sascha Rothe, Daniil Mirylenka, Aliaksei Severyn.*
+   
+1. **Levenshtein Transformer** NeurIPS 2019. [paper](https://proceedings.neurips.cc/paper/2019/hash/675f9820626f5bc0afb47b57890b466e-Abstract.html/)
+
+   *Jiatao Gu, Changhan Wang, Junbo Zhao.*   
 
 1. **Parallel Iterative Edit Models for Local Sequence Transduction** EMNLP 2019. [paper](https://aclanthology.org/D19-1435/)
 
@@ -18,4 +22,8 @@
    
 1. **LEWIS: Levenshtein Editing for Unsupervised Text Style Transfer** ACL 2021. [paper](https://arxiv.org/abs/2105.08206/)
 
-   *Machel Reid, Victor Zhong.*      
+   *Machel Reid, Victor Zhong.*  
+   
+1. **EDITOR: an Edit-Based Transformer with Repositioning for Neural Machine Translation with Soft Lexical Constraints** TACL 2021. [paper](https://arxiv.org/abs/2011.06868/)
+
+   *Weijia Xu, Marine Carpuat.*      
