@@ -35,3 +35,7 @@
 1. **EDITOR: an Edit-Based Transformer with Repositioning for Neural Machine Translation with Soft Lexical Constraints** TACL 2021. [paper](https://arxiv.org/abs/2011.06868/)
 
    *Weijia Xu, Marine Carpuat.*      
+
+1. **A Non-Autoregressive Edit-Based Approach to Controllable Text Simplification** ACL 2021. [paper](TODO)
+
+   *Sweta Agrawal, Weijia Xu and Marine Carpuat.*  
