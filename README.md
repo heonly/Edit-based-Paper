@@ -4,6 +4,14 @@
 
    *Eric Malmi, Sebastian Krause, Sascha Rothe, Daniil Mirylenka, Aliaksei Severyn.*
    
+1. **Parallel Iterative Edit Models for Local Sequence Transduction** EMNLP 2019. [paper](https://aclanthology.org/D19-1435/)
+
+   *Abhijeet Awasthi, Sunita Sarawagi, Rasna Goyal, Sabyasachi Ghosh, Vihari Piratla.*   
+
+1. **EditNTS: An Neural Programmer-Interpreter Model for Sentence Simplification through Explicit Editing** ACL2019. [paper](https://aclanthology.org/P19-1331/)
+
+   *Yue Dong, Zichao Li, Mehdi Rezagholizadeh, Jackie Chi Kit Cheung.*   
+   
 1. **Levenshtein Transformer** NeurIPS 2019. [paper](https://proceedings.neurips.cc/paper/2019/file/675f9820626f5bc0afb47b57890b466e-Paper.pdf)
 
    *Jiatao Gu, Changhan Wang, Junbo Zhao.*   
