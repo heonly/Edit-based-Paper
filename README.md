@@ -15,10 +15,6 @@
 1. **Levenshtein Transformer** NeurIPS 2019. [paper](https://proceedings.neurips.cc/paper/2019/file/675f9820626f5bc0afb47b57890b466e-Paper.pdf)
 
    *Jiatao Gu, Changhan Wang, Junbo Zhao.*   
-
-1. **Parallel Iterative Edit Models for Local Sequence Transduction** EMNLP 2019. [paper](https://aclanthology.org/D19-1435/)
-
-   *Abhijeet Awasthi, Sunita Sarawagi, Rasna Goyal, Sabyasachi Ghosh, Vihari Piratla.*
    
 1. **FELIX: Flexible Text Editing Through Tagging and Insertion** EMNLP 2020. [paper](https://aclanthology.org/2020.findings-emnlp.111/)
 
@@ -30,11 +26,7 @@
    
 1. **LEWIS: Levenshtein Editing for Unsupervised Text Style Transfer** ACL 2021. [paper](https://arxiv.org/abs/2105.08206/)
 
-   *Machel Reid, Victor Zhong.*  
-   
-1. **EDITOR: an Edit-Based Transformer with Repositioning for Neural Machine Translation with Soft Lexical Constraints** TACL 2021. [paper](https://arxiv.org/abs/2011.06868/)
-
-   *Weijia Xu, Marine Carpuat.*      
+   *Machel Reid, Victor Zhong.*     
 
 1. **A Non-Autoregressive Edit-Based Approach to Controllable Text Simplification** ACL 2021. [paper](TODO)
 
