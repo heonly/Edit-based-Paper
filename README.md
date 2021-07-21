@@ -12,10 +12,6 @@
 
    *Yue Dong, Zichao Li, Mehdi Rezagholizadeh, Jackie Chi Kit Cheung.*   
    
-1. **Levenshtein Transformer** NeurIPS 2019. [paper](https://proceedings.neurips.cc/paper/2019/file/675f9820626f5bc0afb47b57890b466e-Paper.pdf)
-
-   *Jiatao Gu, Changhan Wang, Junbo Zhao.*   
-   
 1. **FELIX: Flexible Text Editing Through Tagging and Insertion** EMNLP 2020. [paper](https://aclanthology.org/2020.findings-emnlp.111/)
 
    *Jonathan Mallinson, Aliaksei Severyn, Eric Malmi, Guillermo Garrido.*
@@ -27,7 +23,3 @@
 1. **LEWIS: Levenshtein Editing for Unsupervised Text Style Transfer** ACL 2021. [paper](https://arxiv.org/abs/2105.08206/)
 
    *Machel Reid, Victor Zhong.*     
-
-1. **A Non-Autoregressive Edit-Based Approach to Controllable Text Simplification** ACL 2021. [paper](TODO)
-
-   *Sweta Agrawal, Weijia Xu and Marine Carpuat.*  
