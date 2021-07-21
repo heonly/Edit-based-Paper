@@ -8,7 +8,7 @@
 
    *Abhijeet Awasthi, Sunita Sarawagi, Rasna Goyal, Sabyasachi Ghosh, Vihari Piratla.*   
 
-1. **EditNTS: An Neural Programmer-Interpreter Model for Sentence Simplification through Explicit Editing** ACL2019. [paper](https://aclanthology.org/P19-1331/)
+1. **EditNTS: An Neural Programmer-Interpreter Model for Sentence Simplification through Explicit Editing** ACL 2019. [paper](https://aclanthology.org/P19-1331/)
 
    *Yue Dong, Zichao Li, Mehdi Rezagholizadeh, Jackie Chi Kit Cheung.*   
    
